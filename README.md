@@ -1,4 +1,4 @@
-# Hi there, I'm Waed Alsheikh 👋
+# Hi there, I'm Waed hamdo sheikh 👋
 
 ### 🎓 About Me
 - 🎓 Information Engineering Student with a strong passion for web development.
