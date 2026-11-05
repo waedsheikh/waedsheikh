@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_list=3,4,10&height=200&section=header&text=Hi%20there,%20I'm%20Waed%20Hamdo%20Sheikh&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1F6FEB,238636&height=180&section=header&text=Hi%20there,%20I'm%20Waed%20Hamdo%20Sheikh&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
 ### 🎓 About Me
@@ -7,7 +7,9 @@
 - 💻 Frontend Web Developer specialized in React.js, Vue.js, and JavaScript
 - 🚀 Passionate about building responsive, modern, and user-friendly web applications
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/waed-sheikh) | Email: waed.sheikh@example.com
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=waedsheikh&show_icons=true&theme=radical&hide_border=true" />
+</div>
 ---
 
 ### 🛠️ Tech Stack & Tools
