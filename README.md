@@ -24,8 +24,12 @@
 </p>
 ---
 
+---
+
 ### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waedsheikh&theme=dark" alt="Waed's Streak" />
-</p>
+<div align="center">
+  <a href="https://github.com/waedsheikh">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+  </a>
+</div>
