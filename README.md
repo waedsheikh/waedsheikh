@@ -1,4 +1,6 @@
-# Hi there, I'm Waed Hamdo Sheikh 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_list=3,4,10&height=200&section=header&text=Hi%20there,%20I'm%20Waed%20Hamdo%20Sheikh&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%" />
+</div>
 
 ### 🎓 About Me
 - 🎓 Information Engineering Student at University of Aleppo
@@ -19,9 +21,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_list=3,4,10&height=200&section=header&text=Hi%20there,%20I'm%20Waed%20Hamdo%20Sheikh&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%" />
-</div>
+
 ---
 
 ### 📊 GitHub Activity
